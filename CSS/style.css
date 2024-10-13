@@ -278,8 +278,10 @@ footer {
     background: rgb(17, 16, 16);
     max-width: 1440px;
     text-align: center;
+    margin: 0 auto;
     margin-top: 70px;
     padding: 100px 160px;
+    
 }
 
 footer h1 {
